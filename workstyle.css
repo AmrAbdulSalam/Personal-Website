@@ -1,0 +1,55 @@
+.nav{
+    font-size: 21pt;
+    
+}
+.nav ul {
+    position : relative;
+    float: right;
+    list-style-type: none;
+    
+}
+.nav li {
+    display: inline;
+    
+}
+
+li b{
+    color : black;
+    padding-right: 20px;
+    
+}
+
+li a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-left : 150px;
+    padding-top: 150px;
+}
+
+
+.first-element{
+    display: flex;
+    padding-bottom: 20px;
+}
+.img{
+    margin-right: 30px;
+}
+.info{
+    margin-top: -10px;
+}
+
+.basic{
+    padding-left: 20px;
+    opacity: 0.4;
+}
+
+.but{
+    background-color: #142850;
+    color: white;
+    border-radius: 20px;
+}
