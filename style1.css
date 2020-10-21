@@ -209,6 +209,7 @@ div.right{
 footer{
     position: relative;
     left : 50%;
+    padding-top :20px;
 }
 footer a {
     padding : 15px;
